@@ -1,2 +1,5 @@
-# PMIK_22L_Kaniuka_Krasnodebski
-Repozytorium zawierające kod źródłowy projektu wykonanego w ramach przedmiotu Programowanie mikrokontrolerów [PMIK] w semestrze 22L. 
+## Programowanie mikrokontrolerów :computer:
+### Semestr: 22L
+### Zespół: Jan Kaniuka, Przemysław Krasnodębski
+### Temat projektu: Zdalnie sterowany pojazd z funkcją monitorowania parametrów ruchu oraz diagnostyką układu napędowego :blue_car: :chart_with_upwards_trend:
+
