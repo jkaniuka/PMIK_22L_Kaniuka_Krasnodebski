@@ -1,0 +1,5 @@
+../Core/Src/transmitter.c:6:16:calc_PWM	72	static
+../Core/Src/transmitter.c:48:16:truncate_digits_to_send	16	static
+../Core/Src/transmitter.c:70:19:calc_dirs	0	static
+../Core/Src/transmitter.c:92:5:count_digits	0	static
+../Core/Src/transmitter.c:103:7:speed_SV_msg	56	dynamic

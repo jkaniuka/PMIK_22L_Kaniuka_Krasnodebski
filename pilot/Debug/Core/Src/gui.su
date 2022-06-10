@@ -1,0 +1,7 @@
+../Core/Src/gui.c:7:6:plot_frame	24	static
+../Core/Src/gui.c:13:6:display_float	40	static
+../Core/Src/gui.c:28:6:display_int	40	dynamic
+../Core/Src/gui.c:43:7:calc_current	8	static
+../Core/Src/gui.c:49:6:render_screen	16	static
+../Core/Src/gui.c:65:6:signal_lost	16	static
+../Core/Src/gui.c:79:6:display_params	40	static
