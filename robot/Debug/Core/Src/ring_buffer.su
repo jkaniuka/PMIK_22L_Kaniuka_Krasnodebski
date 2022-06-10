@@ -1,0 +1,4 @@
+../Core/Src/ring_buffer.c:17:11:RB_CreateBuffer	16	static
+../Core/Src/ring_buffer.c:34:11:RB_WriteToBuffer	24	static
+../Core/Src/ring_buffer.c:57:11:RB_ReadFromBuffer	16	static
+../Core/Src/ring_buffer.c:75:9:RB_ElementsAvailable	16	static

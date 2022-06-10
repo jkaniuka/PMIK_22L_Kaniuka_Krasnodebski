@@ -1,0 +1,5 @@
+../Core/Src/motor.c:35:6:setMotorPWM	16	static
+../Core/Src/motor.c:45:6:setActuator	16	static
+../Core/Src/motor.c:57:6:setL298N	24	static
+../Core/Src/motor.c:71:6:setPwmDrivenByTimer	16	static
+../Core/Src/motor.c:84:6:MOTORS_Init	16	static

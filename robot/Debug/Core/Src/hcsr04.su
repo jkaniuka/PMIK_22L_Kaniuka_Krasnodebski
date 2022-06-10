@@ -1,0 +1,3 @@
+../Core/Src/hcsr04.c:37:6:HCSR04_Read	16	static
+../Core/Src/hcsr04.c:48:6:HCSR04_TIM_IC_CaptureCallback	24	static
+../Core/Src/hcsr04.c:69:6:HCSR04_Init	16	static
